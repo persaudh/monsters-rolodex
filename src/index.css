@@ -1,0 +1,17 @@
+:root{
+  font-family: Inter, system-ui, Avenir, Arial, Helvetica, sans-serif;
+  line-height: 1.5;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body{
+  background: linear-gradient(
+    to left,
+    rgb(1, 20, 72) 0%,
+    rgb(0, 128, 98) 100%
+  );
+}

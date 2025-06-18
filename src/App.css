@@ -3,11 +3,18 @@
   min-width: 100vw;
 }
 
+
 .AppContainer {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background-color: #ffffff;
+}
+
+.app-title {
+  font-size: 72px;
+  margin-top: 75px;
+  margin-bottom: 50px;
+  color: rgb(73, 176, 113);
 }

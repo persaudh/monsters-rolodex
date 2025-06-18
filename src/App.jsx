@@ -27,7 +27,7 @@ const  App = () => {
 
   return(
     <div className="AppContainer">
-    <h1>Monsters Rolodes</h1>
+    <h1 className='app-title'>Monsters Rolodes</h1>
     <SearchBox 
       onChangeHandler={onSearchChange} />
     <CardList monsters={filteredMonsters} />
