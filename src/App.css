@@ -2,3 +2,12 @@
   margin: 0 auto;
   min-width: 100vw;
 }
+
+.AppContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: #ffffff;
+}
